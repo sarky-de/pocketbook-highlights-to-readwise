@@ -1,0 +1,14 @@
+{
+  "name": "pocketbook-highlights-to-readwise",
+  "version": "0.0.1",
+  "description": "Converts PocketBook highlights HTML export to CSV that can be uploaded to Readwise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
