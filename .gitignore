@@ -91,5 +91,5 @@ lerna-debug.log
 Thumbs.db
 
 # Custom for project
-./export/*
+*.html
 *.csv
